@@ -1,0 +1,75 @@
+html, body, div{
+	height: 100%;
+	width: 100%;
+}
+
+.inARow {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	height: 15%;
+	width: 100%;
+}
+
+.box {
+	height: 90%;
+	width: 31%;
+	margin: 1% 0 0 0;
+}
+
+.box2 {
+	height: 40%;
+	width: 100%;
+	float: bottom;
+}
+
+.topRed {
+	background: #D0021B;
+}
+
+.topBlue {
+	background: #4A90E2;
+}
+
+.topGrey {
+	background: #4A4A4A;
+}
+
+.textBox {
+	background: #FFFFFF;
+	height: 13%;
+	width: 100%;
+	margin: 1% 0 0 0;
+}
+
+.bottomTop {
+	background: #4A90E2;
+}
+
+.internal {
+	background: #D0021B;
+	width: 30%;
+}
+
+.bottom {
+	background: #4A90E2;
+	margin: 2% auto;
+	height: 20%;
+}
+
+.bottomInternal {
+	height: 100%;
+}
+
+.redBox {
+	background: #D0021B;
+	float: right;
+	width: 30%;
+}
+
+.greyBox {
+	background: #4A4A4A;
+	float: right;
+	width: 65%;
+	margin: 0 17%;
+}
