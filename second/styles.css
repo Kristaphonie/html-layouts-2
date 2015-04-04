@@ -1,0 +1,77 @@
+html, body {
+	background: #D8D8D8;
+	height: 100%;
+	width: 70%;
+}
+
+.topBox {
+	background: white;
+	height: 20%;
+	width: 80%;
+	position: static;
+	margin: 3% 0 0 3%;
+}
+
+.textBox {
+	height: 10%;
+	width: 80%;
+	margin: 0% 0 0 2%;
+}
+
+.clicker {
+	height: 20%;
+	width: 15%;
+	display: inline-block;
+	margin: 13% 0 0 2%;
+	text-align: center;
+	display: inline-table;
+	vertical-align: middle;
+}
+
+.clickText {
+	color: white;
+	font-size: 1em;
+	font-family: Arial;
+}
+
+.redClick {
+	background: #D0021B;
+}
+
+.blueClick {
+	background: #4A90E2;
+}
+
+.midBox {
+	background: white;
+	height: 40%;
+	width: 80%;
+	margin: 3% 0 3% 3%;
+}
+
+.image {
+	content: url(http://www.ninjastars.org/wp-content/uploads/2011/07/Ninja1.jpg);
+	height: 60%;
+	width: 50%;
+	margin: 5% 10% 0 18%;
+}
+
+.secondText {
+	height: 5%;
+	width: 80%;
+	margin: 5% auto;
+}
+
+.blackBar {
+	background: #060000;
+	height: 7%;
+	width: 86%;
+}
+
+.text {
+	color: white;
+	font-size: 1em;
+	float: right;
+	margin: 3% 8% 0 0;
+	font-family: Arial;
+}
