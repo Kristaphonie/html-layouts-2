@@ -1,0 +1,62 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+header {
+	height: 8%;
+	width: 53%;
+	background: #454545;
+}
+
+.topText {
+	color: white;
+	font-size: 1em;
+	font-family: arial;
+	margin-top: 3%;
+	margin-left: 4%;
+	display: inline-block;
+}
+
+.box1 {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+.box2 {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+.headText {
+	font-size: 2.5em;
+	font-family: arial;
+	margin-top: 15%;
+	margin-left: 5%;
+}
+
+.leftText {
+	margin-left: 5%;
+}
+
+.greyBox {
+	background: #D8D8D8;
+	height: 30%;
+	width: 95%;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+
+.rightText {
+	margin-top: 5%;
+}
+
+footer {
+	height: 8%;
+	width: 53%;
+	background: #454545;
+	position: staic;
+	clear: both;
+}
